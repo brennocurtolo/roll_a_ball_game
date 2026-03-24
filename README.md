@@ -53,17 +53,25 @@ The project focuses on implementing core gameplay mechanics such as movement, co
 
 ---
 
-## 🚀 How to Run the Project
+🚀 **How to Run the Project**
 
 1. Clone this repository:
 
-```bash
+```
 git clone https://github.com/brennocurtolo/roll_a_ball_game.git
 ```
 
 2. Open the project in Unity Hub
+
 3. Select the correct Unity version
-4. Press **Play** in the editor
+
+4. Open the main scene:
+
+```
+Assets/Scenes/Main.unity
+```
+
+5. Press **Play** in the editor
 
 ---
 
