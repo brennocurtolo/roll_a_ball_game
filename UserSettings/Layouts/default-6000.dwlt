@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1918
     height: 980
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -608,7 +608,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/TextMesh Pro/Resources/Fonts & Materials
+    - Assets/Scenes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -618,7 +618,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/TextMesh Pro/Resources/Fonts & Materials
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\brenn\OneDrive\Desktop\Unity Projects\roll_a_ball_game
   m_LockTracker:
@@ -627,13 +627,13 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: 49548
+    - m_Data: 46242
     m_LastClickedID:
-      m_Data: 49548
+      m_Data: 46242
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 46240
-    - m_Data: 46242
+    - m_Data: 46236
+    - m_Data: 46238
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -666,8 +666,8 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 46240
-    - m_Data: 46242
+    - m_Data: 46236
+    - m_Data: 46238
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -694,9 +694,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs:
-    - m_Data: 45808
-    m_LastClickedInstanceID: 45808
+    m_SelectedInstanceIDs: []
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
@@ -824,10 +823,7 @@ MonoBehaviour:
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -1296
-      - m_Data: 45776
-      - m_Data: 45808
-      - m_Data: 45826
+      - m_Data: -1320
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1478,7 +1474,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 7.612935, y: 7.5532002, z: 6.3934484}
     speed: 2
-    m_Value: {x: 6.6884923, y: 4.182329, z: 3.009129}
+    m_Value: {x: 7.612935, y: 7.5532002, z: 6.3934484}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1526,11 +1522,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.02063041, y: 0.94573146, z: -0.31855667, w: 0.06138347}
     speed: 2
-    m_Value: {x: -0.32261795, y: 0.26534683, z: -0.094698116, w: -0.90366465}
+    m_Value: {x: 0.02063041, y: 0.9457314, z: -0.31855664, w: 0.061383467}
   m_Size:
     m_Target: 10.536818
     speed: 2
-    m_Value: 3.8285544
+    m_Value: 10.536818
   m_Ortho:
     m_Target: 1
     speed: 2
