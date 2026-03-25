@@ -68,7 +68,7 @@ git clone https://github.com/brennocurtolo/roll_a_ball_game.git
 4. Open the main scene:
 
 ```
-Assets/Scenes/Main.unity
+Assets/Scenes/MiniGame.unity
 ```
 
 5. Press **Play** in the editor
