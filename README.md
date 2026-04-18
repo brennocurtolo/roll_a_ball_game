@@ -9,7 +9,7 @@
 <!-- Substitua o link abaixo pelo seu vídeo -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e6f87c9f-3140-4d7d-b60a-f7eaa2f74303" width="700"/>
+  <img width="720" src="https://github.com/user-attachments/assets/cad6e901-d1bb-4d80-b282-82e6c4f530bc" />
 </p>
 
 ---
